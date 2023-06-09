@@ -81,7 +81,7 @@ else:
  
 
 # Output : 
-<img src="o1.png" width=450>
+<img src="o1.png" width=650>
 
 
 # Results:
