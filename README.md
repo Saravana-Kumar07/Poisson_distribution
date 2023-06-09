@@ -81,7 +81,7 @@ else:
  
 
 # Output : 
-![](./o1.png)
+<img src="o1.png" width=450>
 
 
 # Results:
